@@ -1,0 +1,1 @@
+<?php    header('Location: https://www.alofeed.com/2023/08/best-time-to-travel-to-indonesia.html');    ?>
